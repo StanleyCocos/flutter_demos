@@ -1,0 +1,6 @@
+framework module auto_orientation {
+  umbrella header "auto_orientation-umbrella.h"
+
+  export *
+  module * { export * }
+}
