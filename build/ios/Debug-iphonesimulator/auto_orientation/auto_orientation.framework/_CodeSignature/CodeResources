@@ -14,7 +14,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		coY08LTgCDBFYRkWrrLd4UFN8mM=
+		+T5VVOsrJdKqNi3cfvlSLw5eyVI=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -25,10 +25,6 @@
 	<dict>
 		<key>Headers/AutoOrientationPlugin.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			SzaW2SSO9sFLL8hZj3JHbzjen0c=
-			</data>
 			<key>hash2</key>
 			<data>
 			+GfZFLLgBLm9D4SMLZePMMtMv1WTwyiXra7J+Uhfsak=
@@ -36,10 +32,6 @@
 		</dict>
 		<key>Headers/auto_orientation-umbrella.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			aiLzGeXtOzngrFLSkLn5XAGYD0M=
-			</data>
 			<key>hash2</key>
 			<data>
 			OMlRubRpy73TLoVlf5fHiz7IxfRvIC61IHJHRGS1yDY=
@@ -47,10 +39,6 @@
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			N3NzEj9tVfUwOkmxgbY6Lab+iLg=
-			</data>
 			<key>hash2</key>
 			<data>
 			GN97KfySel04dZEdBOzKVOQmZlYcU9rsLfOAB69HEb0=

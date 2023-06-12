@@ -1,3 +1,6 @@
 # This is a generated file; do not edit or check into version control.
-auto_orientation=/Users/ljc/SDK/flutter/.pub-cache/hosted/pub.flutter-io.cn/auto_orientation-2.1.0/
-fluttertoast=/Users/ljc/SDK/flutter/.pub-cache/hosted/pub.flutter-io.cn/fluttertoast-8.0.8/
+auto_orientation=/opt/flutter/.pub-cache/hosted/pub.flutter-io.cn/auto_orientation-2.2.1/
+fluttertoast=/opt/flutter/.pub-cache/hosted/pub.flutter-io.cn/fluttertoast-8.0.8/
+webview_flutter=/opt/flutter/.pub-cache/git/plugins-481e17f1270271c1fa0544b547fe5a6122d2a8d3/packages/webview_flutter/webview_flutter/
+webview_flutter_android=/opt/flutter/.pub-cache/git/plugins-481e17f1270271c1fa0544b547fe5a6122d2a8d3/packages/webview_flutter/webview_flutter_android/
+webview_flutter_wkwebview=/opt/flutter/.pub-cache/git/plugins-481e17f1270271c1fa0544b547fe5a6122d2a8d3/packages/webview_flutter/webview_flutter_wkwebview/
